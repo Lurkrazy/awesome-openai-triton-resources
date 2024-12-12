@@ -15,7 +15,7 @@ All Triton resources are welcomed
 
 ## Tools
 
-* [Profiling-Tools](https://github.com/Deep-Learning-Profiling-Tools/triton-viz)
+* [triton-viz](https://github.com/Deep-Learning-Profiling-Tools/triton-viz)
 
 
 ## Articles
