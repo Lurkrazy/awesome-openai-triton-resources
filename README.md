@@ -15,8 +15,11 @@ All Triton resources are welcomed
 
 ## Tools
 
-* [triton-viz](https://github.com/Deep-Learning-Profiling-Tools/triton-viz)
+* [triton-viz](https://github.com/Deep-Learning-Profiling-Tools/triton-viz) by Keren Zhou et al.
 
+* Debugging for NVIDIA GPUs: [ompute-sanitizer](https://docs.nvidia.com/cuda/compute-sanitizer/index.html).
+
+* Debugging for AMD GPUs: LLVM [AddressSanitizer](https://rocm.docs.amd.com/en/latest/conceptual/using-gpu-sanitizer.html) for ROCm.
 
 ## Articles
 
