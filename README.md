@@ -25,3 +25,5 @@ All Triton resources are welcomed
 * [Efficient Gather-and-scatter Matrix Multiplication Kernel with Triton](https://xenshinu.github.io/triton_gather_scatter/)
 
 ## Research Papers
+
+* [Triton: an intermediate language and compiler for tiled neural network computations](https://dl.acm.org/doi/10.1145/3315508.3329973) by Philippe Tillet et al., MAPL 2019
