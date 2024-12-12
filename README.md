@@ -9,7 +9,7 @@ All Triton resources are welcomed
 
 * [Triton-Puzzles](https://github.com/srush/Triton-Puzzles/tree/main). Puzzles for learning Triton
 
-* [Triton-Puzzles-Lite](https://github.com/SiriusNEO/Triton-Puzzles-Lite)
+* [Triton-Puzzles-Lite](https://github.com/SiriusNEO/Triton-Puzzles-Lite). Puzzles for learning Triton, play it with minimal environment configuration!
 
 * [Awesome-Triton-Kernels](https://github.com/zinccat/Awesome-Triton-Kernels). Collection of kernels written in Triton language.
 
