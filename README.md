@@ -1,4 +1,4 @@
-# awesome-openai-triton-resources
+# Awesome OpenAI Triton Resources
 All Triton resources are welcomed
 
 
