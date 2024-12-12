@@ -2,6 +2,8 @@
 All Triton resources are welcomed
 
 
+## Documentation
+[Welcome to Triton’s documentation!](https://triton-lang.org)
 
 ## Puzzles Github Repo
 
