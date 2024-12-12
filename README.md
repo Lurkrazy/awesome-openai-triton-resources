@@ -23,4 +23,4 @@ All Triton resources are welcomed
 ### Distributed Neural networks
 * [Efficient Gather-and-scatter Feed-forward Network Kernel with Triton](https://xenshinu.github.io/triton_gather_scatter_FFN/)
 
-* [https://xenshinu.github.io/triton_gather_scatter/](https://xenshinu.github.io/triton_gather_scatter/)
+* [Efficient Gather-and-scatter Matrix Multiplication Kernel with Triton](https://xenshinu.github.io/triton_gather_scatter/)
