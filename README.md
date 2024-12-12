@@ -18,7 +18,7 @@ All Triton resources are welcomed
 
 ## Tools
 
-* [triton-viz](https://github.com/Deep-Learning-Profiling-Tools/triton-viz) by Keren Zhou et al.
+* [triton-viz](https://github.com/Deep-Learning-Profiling-Tools/triton-viz) by Keren Zhou et al. A Visualization Toolkit for programming with Triton.
 
 * Debugging for NVIDIA GPUs: [ompute-sanitizer](https://docs.nvidia.com/cuda/compute-sanitizer/index.html).
 
