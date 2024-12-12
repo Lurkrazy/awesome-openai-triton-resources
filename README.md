@@ -28,3 +28,7 @@ All Triton resources are welcomed
 ## Research Papers
 
 * [Triton: an intermediate language and compiler for tiled neural network computations](https://dl.acm.org/doi/10.1145/3315508.3329973) by Philippe Tillet et al., MAPL 2019
+
+
+## Contribute
+We encourage all contributions to this repository. Open an [issue](https://github.com/Lurkrazy/awesome-openai-triton-resources/issues) or send a [pull request](https://github.com/Lurkrazy/awesome-openai-triton-resources/pulls).
