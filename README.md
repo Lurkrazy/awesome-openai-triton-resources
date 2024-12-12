@@ -13,6 +13,9 @@ All Triton resources are welcomed
 
 * [Awesome-Triton-Kernels](https://github.com/zinccat/Awesome-Triton-Kernels)
 
+* [attorch](https://github.com/BobMcDear/attorch) by Borna Ahmadzadeh. A subset of PyTorch's neural network modules, written in Python using OpenAI's Triton.
+
+
 ## Tools
 
 * [triton-viz](https://github.com/Deep-Learning-Profiling-Tools/triton-viz) by Keren Zhou et al.
