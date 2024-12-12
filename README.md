@@ -8,6 +8,7 @@ All Triton resources are welcomed
 ## Puzzles Github Repo
 
 [Triton-Puzzles](https://github.com/srush/Triton-Puzzles/tree/main)
+[Triton-Puzzles-Lite](https://github.com/SiriusNEO/Triton-Puzzles-Lite)
 
 
 
