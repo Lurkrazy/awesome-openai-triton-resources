@@ -5,12 +5,13 @@ All Triton resources are welcomed
 ## Documentation
 * [Welcome to Triton’s documentation!](https://triton-lang.org)
 
-## Triton Puzzles Github Repo
+## Github Repo
 
 * [Triton-Puzzles](https://github.com/srush/Triton-Puzzles/tree/main)
 
 * [Triton-Puzzles-Lite](https://github.com/SiriusNEO/Triton-Puzzles-Lite)
 
+* [Awesome-Triton-Kernels](https://github.com/zinccat/Awesome-Triton-Kernels)
 
 ## Tools
 
