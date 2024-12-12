@@ -7,11 +7,11 @@ All Triton resources are welcomed
 
 ## Github Repo
 
-* [Triton-Puzzles](https://github.com/srush/Triton-Puzzles/tree/main)
+* [Triton-Puzzles](https://github.com/srush/Triton-Puzzles/tree/main). Puzzles for learning Triton
 
 * [Triton-Puzzles-Lite](https://github.com/SiriusNEO/Triton-Puzzles-Lite)
 
-* [Awesome-Triton-Kernels](https://github.com/zinccat/Awesome-Triton-Kernels)
+* [Awesome-Triton-Kernels](https://github.com/zinccat/Awesome-Triton-Kernels). Collection of kernels written in Triton language.
 
 * [attorch](https://github.com/BobMcDear/attorch) by Borna Ahmadzadeh. A subset of PyTorch's neural network modules, written in Python using OpenAI's Triton.
 
